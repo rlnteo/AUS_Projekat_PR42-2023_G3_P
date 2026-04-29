@@ -1,4 +1,4 @@
-# AUS Projekat (G3)
+# AUS Projekat (G3) PR 42/2023
 
 Projekat iz predmeta **Akviziciono-upravljacki sistemi (AUS)**.
 
@@ -12,6 +12,3 @@ Projekat iz predmeta **Akviziciono-upravljacki sistemi (AUS)**.
 
 > Napomena: Nakon preuzimanja projekta, potrebno je uraditi **Clean** pa **Rebuild** kako bi se ispravno prikazale/dodale reference.
 
-## Reference (Modbus)
-
-> Vaeno: Potrebno je dodati **reference za Modbus** ("Add reference" do Modbus) nakon preuzimanja projekta, a zatim uraditi **Clean** i **Rebuild**.
