@@ -1,6 +1,6 @@
 # AUS Projekat (G3) PR 42/2023
 
-Projekat iz predmeta **Akviziciono-upravljacki sistemi (AUS)**.
+Projekat iz predmeta **Akviziciono-upravljacki sistemi (AUS)**.
 
 ## Pokretanje projekta
 
